@@ -6,7 +6,7 @@ EndeavourOS running notes
 ### Extra packages:
 
 ```shell
-sudo pacman -Sy bandwhich ctop gping dua-cli speedtest-cli exa jq yq hq p7zip unzip the_silver_searcher neovim yamllint
+sudo pacman -Sy bandwhich ctop gping dua-cli speedtest-cli exa jq yq hq p7zip unzip the_silver_searcher neovim yamllint fdupes fzf procs rsync ntp tmux htop
 ```
 
 Descriptions:
@@ -29,3 +29,10 @@ Descriptions:
 - unzip: Decompression
 - nvim (neovim): Better vim
 - yamllint: Linter for YAML files
+- fdupes: Duplicate file finder
+- fzf: Fuzzy finder
+- procs: Improved ps
+- rsync: File copy
+- ntp: Time sync
+- tmux: Terminal multiplexer
+- htop: Improved top
