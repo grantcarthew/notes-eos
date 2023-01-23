@@ -3,7 +3,11 @@ EndeavourOS running notes
 
 ## Installation and Setup
 
-### Extra packages:
+Review the following:
+- [Basic Packages](#basic-packages)
+- [Cloud Tools]
+
+## Basic Packages
 
 ```shell
 sudo pacman -Sy bandwhich ctop gping dua-cli speedtest-cli exa jq yq hq p7zip unzip the_silver_searcher neovim yamllint fdupes fzf procs rsync ntp tmux htop
@@ -36,3 +40,10 @@ Descriptions:
 - ntp: Time sync
 - tmux: Terminal multiplexer
 - htop: Improved top
+
+## Cloud Tools
+
+- kubectl
+- kubeval
+- kubectx
+- kubens
