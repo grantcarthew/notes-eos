@@ -47,3 +47,4 @@ Descriptions:
 - kubeval
 - kubectx
 - kubens
+- terraform
